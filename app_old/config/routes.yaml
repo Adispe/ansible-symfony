@@ -6,6 +6,7 @@ kernel:
     resource: ../src/Kernel.php
     type: annotation
 
-### JWT login check
-api_login_check:
-    path: /api/login_check
+# api/config/routes.yaml
+authentication_token:
+    path: /authentication_token
+    methods: ['POST']

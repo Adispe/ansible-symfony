@@ -1,0 +1,7 @@
+{
+    "login": "foobar",
+    "password": "mypassword",
+    "email": "my@email.com",
+    "firstname": "Foo",
+    "lastname": "bar"
+}
